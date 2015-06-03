@@ -1,0 +1,1 @@
+A collection of AIML files used in The Professor chatbot, containing more than 600,000 AIML categories, and including 150,000 categories from the Wordnet 3.0 database. The chatbot using this code can be found <a href='http://www.pandorabots.com/pandora/talk?botid=fc5ace9fbe34f985'>here</a>.
